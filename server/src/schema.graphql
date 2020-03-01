@@ -1,0 +1,16 @@
+type Query {
+  info: String!
+  bowlers: [Bowler!]!
+}
+
+type Mutation {
+  addBowler(firstName: String!, lastName: String!, average: Int!): Bowler!
+}
+
+type Bowler {
+  id: ID!
+  Name: String!
+  GMS: Int!
+  HCP: Int!
+  AVG: Int!
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bowling-data-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jon Arme",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3",
+    "lodash": "^4.17.15"
+  }
+}

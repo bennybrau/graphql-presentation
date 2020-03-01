@@ -1,0 +1,1028 @@
+{
+  "ArbuthnotAnthony" : {
+    "AVG" : 202,
+    "GMS" : 80,
+    "HCP" : 16,
+    "Name" : "Arbuthnot, Anthony"
+  },
+  "ArmeJonathan" : {
+    "AVG" : 163,
+    "GMS" : 93,
+    "HCP" : 51,
+    "Name" : "Arme, Jonathan"
+  },
+  "ArtleyWill" : {
+    "AVG" : 213,
+    "GMS" : 63,
+    "HCP" : 6,
+    "Name" : "Artley, Will"
+  },
+  "AugustineMark" : {
+    "AVG" : 206,
+    "GMS" : 78,
+    "HCP" : 12,
+    "Name" : "Augustine, Mark"
+  },
+  "BaaschJason" : {
+    "AVG" : 186,
+    "GMS" : 96,
+    "HCP" : 30,
+    "Name" : "Baasch, Jason"
+  },
+  "BaggsScott" : {
+    "AVG" : 151,
+    "GMS" : 27,
+    "HCP" : 62,
+    "Name" : "Baggs, Scott"
+  },
+  "BaggsTyler" : {
+    "AVG" : 177,
+    "GMS" : 87,
+    "HCP" : 38,
+    "Name" : "Baggs, Tyler"
+  },
+  "BakutisChristopher" : {
+    "AVG" : 175,
+    "GMS" : 84,
+    "HCP" : 40,
+    "Name" : "Bakutis, Christopher"
+  },
+  "BakutisMichael" : {
+    "AVG" : 186,
+    "GMS" : 96,
+    "HCP" : 30,
+    "Name" : "Bakutis, Michael"
+  },
+  "BarkerJason" : {
+    "AVG" : 171,
+    "GMS" : 93,
+    "HCP" : 44,
+    "Name" : "Barker, Jason"
+  },
+  "BasistaDave" : {
+    "AVG" : 159,
+    "GMS" : 12,
+    "HCP" : 54,
+    "Name" : "Basista, Dave"
+  },
+  "BeanAlan" : {
+    "AVG" : 212,
+    "GMS" : 72,
+    "HCP" : 7,
+    "Name" : "Bean, Alan"
+  },
+  "BivensJonathan" : {
+    "AVG" : 140,
+    "GMS" : 18,
+    "HCP" : 70,
+    "Name" : "Bivens, Jonathan"
+  },
+  "BjorklundMark" : {
+    "AVG" : 179,
+    "GMS" : 12,
+    "HCP" : 36,
+    "Name" : "Bjorklund, Mark"
+  },
+  "BlexTray" : {
+    "AVG" : 126,
+    "GMS" : 60,
+    "HCP" : 70,
+    "Name" : "Blex, Tray"
+  },
+  "BockoverJeff" : {
+    "AVG" : 192,
+    "GMS" : 87,
+    "HCP" : 25,
+    "Name" : "Bockover, Jeff"
+  },
+  "BorrowdaleRuss" : {
+    "AVG" : 207,
+    "GMS" : 72,
+    "HCP" : 11,
+    "Name" : "Borrowdale, Russ"
+  },
+  "BoyeTim" : {
+    "AVG" : 156,
+    "GMS" : 87,
+    "HCP" : 57,
+    "Name" : "Boye, Tim"
+  },
+  "BrownCharles" : {
+    "AVG" : 198,
+    "GMS" : 71,
+    "HCP" : 19,
+    "Name" : "Brown, Charles"
+  },
+  "BrownJames" : {
+    "AVG" : 182,
+    "GMS" : 30,
+    "HCP" : 34,
+    "Name" : "Brown, James"
+  },
+  "BuskeBryan" : {
+    "AVG" : 164,
+    "GMS" : 12,
+    "HCP" : 50,
+    "Name" : "Buske, Bryan"
+  },
+  "CampbellBob" : {
+    "AVG" : 176,
+    "GMS" : 84,
+    "HCP" : 39,
+    "Name" : "Campbell, Bob"
+  },
+  "CampbellRyan" : {
+    "AVG" : 198,
+    "GMS" : 39,
+    "HCP" : 19,
+    "Name" : "Campbell, Ryan"
+  },
+  "CastanedaAlan" : {
+    "AVG" : 227,
+    "GMS" : 87,
+    "HCP" : 0,
+    "Name" : "Castaneda, Alan"
+  },
+  "ChavezJeffrey" : {
+    "AVG" : 206,
+    "GMS" : 6,
+    "HCP" : 12,
+    "Name" : "Chavez, Jeffrey"
+  },
+  "CisarikBrian" : {
+    "AVG" : 189,
+    "GMS" : 9,
+    "HCP" : 27,
+    "Name" : "Cisarik, Brian"
+  },
+  "CooperJames" : {
+    "AVG" : 203,
+    "GMS" : 90,
+    "HCP" : 15,
+    "Name" : "Cooper, James"
+  },
+  "DaceDavid" : {
+    "AVG" : 184,
+    "GMS" : 51,
+    "HCP" : 32,
+    "Name" : "Dace, David"
+  },
+  "DaceMichael" : {
+    "AVG" : 173,
+    "GMS" : 54,
+    "HCP" : 42,
+    "Name" : "Dace, Michael"
+  },
+  "DarlingerSteve" : {
+    "AVG" : 181,
+    "GMS" : 86,
+    "HCP" : 35,
+    "Name" : "Darlinger, Steve"
+  },
+  "DeMarcoKenneth" : {
+    "AVG" : 189,
+    "GMS" : 60,
+    "HCP" : 27,
+    "Name" : "DeMarco, Kenneth"
+  },
+  "DennisonMichael" : {
+    "AVG" : 195,
+    "GMS" : 81,
+    "HCP" : 22,
+    "Name" : "Dennison, Michael"
+  },
+  "EddingtonChris" : {
+    "AVG" : 191,
+    "GMS" : 60,
+    "HCP" : 26,
+    "Name" : "Eddington, Chris"
+  },
+  "EichhornTimothy" : {
+    "AVG" : 209,
+    "GMS" : 42,
+    "HCP" : 9,
+    "Name" : "Eichhorn, Timothy"
+  },
+  "EichorstMike" : {
+    "AVG" : 218,
+    "GMS" : 72,
+    "HCP" : 1,
+    "Name" : "Eichorst, Mike"
+  },
+  "EnglertRob" : {
+    "AVG" : 209,
+    "GMS" : 54,
+    "HCP" : 9,
+    "Name" : "Englert, Rob"
+  },
+  "EnglertRobert" : {
+    "AVG" : 188,
+    "GMS" : 66,
+    "HCP" : 28,
+    "Name" : "Englert, Robert"
+  },
+  "ErickJason" : {
+    "AVG" : 180,
+    "GMS" : 99,
+    "HCP" : 36,
+    "Name" : "Erick, Jason"
+  },
+  "EscolarJeremy" : {
+    "AVG" : 175,
+    "GMS" : 67,
+    "HCP" : 40,
+    "Name" : "Escolar, Jeremy"
+  },
+  "FilipJohn" : {
+    "AVG" : 142,
+    "GMS" : 60,
+    "HCP" : 70,
+    "Name" : "Filip, John"
+  },
+  "FilipRodney" : {
+    "AVG" : 146,
+    "GMS" : 51,
+    "HCP" : 66,
+    "Name" : "Filip, Rodney"
+  },
+  "FlanniganLee" : {
+    "AVG" : 181,
+    "GMS" : 93,
+    "HCP" : 35,
+    "Name" : "Flannigan, Lee"
+  },
+  "FlanniganTimothy" : {
+    "AVG" : 194,
+    "GMS" : 96,
+    "HCP" : 23,
+    "Name" : "Flannigan, Timothy"
+  },
+  "FlawsNate" : {
+    "AVG" : 201,
+    "GMS" : 6,
+    "HCP" : 17,
+    "Name" : "Flaws, Nate"
+  },
+  "FoxPaul" : {
+    "AVG" : 185,
+    "GMS" : 36,
+    "HCP" : 31,
+    "Name" : "Fox, Paul"
+  },
+  "FredericksenRalph" : {
+    "AVG" : 177,
+    "GMS" : 99,
+    "HCP" : 38,
+    "Name" : "Fredericksen, Ralph"
+  },
+  "FremgenRyan" : {
+    "AVG" : 195,
+    "GMS" : 99,
+    "HCP" : 22,
+    "Name" : "Fremgen, Ryan"
+  },
+  "GajdorusGeorge" : {
+    "AVG" : 147,
+    "GMS" : 81,
+    "HCP" : 65,
+    "Name" : "Gajdorus, George"
+  },
+  "GajdorusJeff" : {
+    "AVG" : 173,
+    "GMS" : 12,
+    "HCP" : 42,
+    "Name" : "Gajdorus, Jeff"
+  },
+  "GajdorusThomas" : {
+    "AVG" : 193,
+    "GMS" : 69,
+    "HCP" : 24,
+    "Name" : "Gajdorus, Thomas"
+  },
+  "GajdorusTimothy" : {
+    "AVG" : 219,
+    "GMS" : 90,
+    "HCP" : 0,
+    "Name" : "Gajdorus, Timothy"
+  },
+  "GreenRobert" : {
+    "AVG" : 188,
+    "GMS" : 90,
+    "HCP" : 28,
+    "Name" : "Green, Robert"
+  },
+  "GriffordPhil" : {
+    "AVG" : 192,
+    "GMS" : 81,
+    "HCP" : 25,
+    "Name" : "Grifford, Phil"
+  },
+  "GriffordZackary" : {
+    "AVG" : 189,
+    "GMS" : 15,
+    "HCP" : 27,
+    "Name" : "Grifford, Zackary"
+  },
+  "GuildenzophBenjamin" : {
+    "AVG" : 189,
+    "GMS" : 87,
+    "HCP" : 27,
+    "Name" : "Guildenzoph, Benjamin"
+  },
+  "GuildenzophJohn" : {
+    "AVG" : 190,
+    "GMS" : 84,
+    "HCP" : 27,
+    "Name" : "Guildenzoph, John"
+  },
+  "GuildenzophMark" : {
+    "AVG" : 197,
+    "GMS" : 84,
+    "HCP" : 20,
+    "Name" : "Guildenzoph., Mark"
+  },
+  "HammersmithThomas" : {
+    "AVG" : 199,
+    "GMS" : 81,
+    "HCP" : 18,
+    "Name" : "Hammersmith, Thomas"
+  },
+  "HayesRobert" : {
+    "AVG" : 172,
+    "GMS" : 49,
+    "HCP" : 43,
+    "Name" : "Hayes, Robert"
+  },
+  "HermosilloMike" : {
+    "AVG" : 199,
+    "GMS" : 39,
+    "HCP" : 18,
+    "Name" : "Hermosillo, Mike"
+  },
+  "HicksBrandon" : {
+    "AVG" : 208,
+    "GMS" : 54,
+    "HCP" : 10,
+    "Name" : "Hicks, Brandon"
+  },
+  "HicksMichael" : {
+    "AVG" : 191,
+    "GMS" : 99,
+    "HCP" : 26,
+    "Name" : "Hicks, Michael"
+  },
+  "HospodarKeith" : {
+    "AVG" : 186,
+    "GMS" : 81,
+    "HCP" : 30,
+    "Name" : "Hospodar, Keith"
+  },
+  "HouseholderJeff" : {
+    "AVG" : 207,
+    "GMS" : 51,
+    "HCP" : 11,
+    "Name" : "Householder, Jeff"
+  },
+  "HoweMike" : {
+    "AVG" : 180,
+    "GMS" : 15,
+    "HCP" : 36,
+    "Name" : "Howe, Mike"
+  },
+  "HuntCody" : {
+    "AVG" : 173,
+    "GMS" : 33,
+    "HCP" : 42,
+    "Name" : "Hunt, Cody"
+  },
+  "HunterHeath" : {
+    "AVG" : 196,
+    "GMS" : 87,
+    "HCP" : 21,
+    "Name" : "Hunter, Heath"
+  },
+  "HunterRaymond" : {
+    "AVG" : 183,
+    "GMS" : 93,
+    "HCP" : 33,
+    "Name" : "Hunter, Raymond"
+  },
+  "JablonskiScott" : {
+    "AVG" : 212,
+    "GMS" : 75,
+    "HCP" : 7,
+    "Name" : "Jablonski, Scott"
+  },
+  "JablonskiSean" : {
+    "AVG" : 205,
+    "GMS" : 39,
+    "HCP" : 13,
+    "Name" : "Jablonski, Sean"
+  },
+  "JacobsScott" : {
+    "AVG" : 166,
+    "GMS" : 33,
+    "HCP" : 48,
+    "Name" : "Jacobs, Scott"
+  },
+  "JaroszKeith" : {
+    "AVG" : 171,
+    "GMS" : 15,
+    "HCP" : 44,
+    "Name" : "Jarosz, Keith"
+  },
+  "JuryChristopher" : {
+    "AVG" : 140,
+    "GMS" : 3,
+    "HCP" : 70,
+    "Name" : "Jury, Christopher"
+  },
+  "KavanaughKory" : {
+    "AVG" : 125,
+    "GMS" : 6,
+    "HCP" : 70,
+    "Name" : "Kavanaugh, Kory"
+  },
+  "KelchMichael" : {
+    "AVG" : 161,
+    "GMS" : 48,
+    "HCP" : 53,
+    "Name" : "Kelch, Michael"
+  },
+  "KennedyPaul" : {
+    "AVG" : 212,
+    "GMS" : 93,
+    "HCP" : 7,
+    "Name" : "Kennedy, Paul"
+  },
+  "KlepserScott" : {
+    "AVG" : 183,
+    "GMS" : 57,
+    "HCP" : 33,
+    "Name" : "Klepser, Scott"
+  },
+  "KlippensteinMark" : {
+    "AVG" : 148,
+    "GMS" : 30,
+    "HCP" : 64,
+    "Name" : "Klippenstein, Mark"
+  },
+  "KregerJohn" : {
+    "AVG" : 203,
+    "GMS" : 45,
+    "HCP" : 15,
+    "Name" : "Kreger, John"
+  },
+  "KubinskiChristopher" : {
+    "AVG" : 180,
+    "GMS" : 93,
+    "HCP" : 36,
+    "Name" : "Kubinski, Christopher"
+  },
+  "KubinskiSteve" : {
+    "AVG" : 169,
+    "GMS" : 77,
+    "HCP" : 45,
+    "Name" : "Kubinski, Steve"
+  },
+  "LandisKenneth" : {
+    "AVG" : 176,
+    "GMS" : 9,
+    "HCP" : 39,
+    "Name" : "Landis, Kenneth"
+  },
+  "LeiningerJoshua" : {
+    "AVG" : 148,
+    "GMS" : 6,
+    "HCP" : 64,
+    "Name" : "Leininger, Joshua"
+  },
+  "LesniakEdward" : {
+    "AVG" : 182,
+    "GMS" : 18,
+    "HCP" : 34,
+    "Name" : "Lesniak, Edward"
+  },
+  "LhotkaHerb" : {
+    "AVG" : 193,
+    "GMS" : 78,
+    "HCP" : 24,
+    "Name" : "Lhotka, Herb"
+  },
+  "LuekenEdward" : {
+    "AVG" : 204,
+    "GMS" : 69,
+    "HCP" : 14,
+    "Name" : "Lueken, Edward"
+  },
+  "LuekenScott" : {
+    "AVG" : 199,
+    "GMS" : 42,
+    "HCP" : 18,
+    "Name" : "Lueken, Scott"
+  },
+  "LustigEdward" : {
+    "AVG" : 175,
+    "GMS" : 66,
+    "HCP" : 40,
+    "Name" : "Lustig, Edward"
+  },
+  "LustigJames" : {
+    "AVG" : 169,
+    "GMS" : 42,
+    "HCP" : 45,
+    "Name" : "Lustig, James"
+  },
+  "MaconSean" : {
+    "AVG" : 133,
+    "GMS" : 12,
+    "HCP" : 70,
+    "Name" : "Macon, Sean"
+  },
+  "MarcinkevichWilliam" : {
+    "AVG" : 161,
+    "GMS" : 45,
+    "HCP" : 53,
+    "Name" : "Marcinkevich, William"
+  },
+  "McKennaJoseph" : {
+    "AVG" : 200,
+    "GMS" : 27,
+    "HCP" : 18,
+    "Name" : "McKenna, Joseph"
+  },
+  "McLaughlinTom" : {
+    "AVG" : 187,
+    "GMS" : 60,
+    "HCP" : 29,
+    "Name" : "McLaughlin, Tom"
+  },
+  "McMannPatrick" : {
+    "AVG" : 210,
+    "GMS" : 54,
+    "HCP" : 9,
+    "Name" : "McMann, Patrick"
+  },
+  "MensikArt" : {
+    "AVG" : 225,
+    "GMS" : 6,
+    "HCP" : 0,
+    "Name" : "Mensik, Art"
+  },
+  "MenzTom" : {
+    "AVG" : 217,
+    "GMS" : 9,
+    "HCP" : 2,
+    "Name" : "Menz, Tom"
+  },
+  "MillerJeffery" : {
+    "AVG" : 150,
+    "GMS" : 0,
+    "HCP" : 63,
+    "Name" : "Miller, Jeffery"
+  },
+  "MinnickRobert" : {
+    "AVG" : 168,
+    "GMS" : 69,
+    "HCP" : 46,
+    "Name" : "Minnick, Robert"
+  },
+  "MoellerErik" : {
+    "AVG" : 163,
+    "GMS" : 48,
+    "HCP" : 51,
+    "Name" : "Moeller, Erik"
+  },
+  "MolitorBrett" : {
+    "AVG" : 207,
+    "GMS" : 72,
+    "HCP" : 11,
+    "Name" : "Molitor, Brett"
+  },
+  "MontgomeryJames" : {
+    "AVG" : 190,
+    "GMS" : 39,
+    "HCP" : 27,
+    "Name" : "Montgomery, James"
+  },
+  "MorandiNathan" : {
+    "AVG" : 112,
+    "GMS" : 42,
+    "HCP" : 70,
+    "Name" : "Morandi, Nathan"
+  },
+  "MunnJason" : {
+    "AVG" : 186,
+    "GMS" : 81,
+    "HCP" : 30,
+    "Name" : "Munn, Jason"
+  },
+  "MunnMatthew" : {
+    "AVG" : 164,
+    "GMS" : 30,
+    "HCP" : 50,
+    "Name" : "Munn, Matthew"
+  },
+  "MurphyJrBernie" : {
+    "AVG" : 162,
+    "GMS" : 87,
+    "HCP" : 52,
+    "Name" : "Murphy Jr., Bernie"
+  },
+  "NearyEdward" : {
+    "AVG" : 165,
+    "GMS" : 60,
+    "HCP" : 49,
+    "Name" : "Neary, Edward"
+  },
+  "NedbalJason" : {
+    "AVG" : 129,
+    "GMS" : 18,
+    "HCP" : 70,
+    "Name" : "Nedbal, Jason"
+  },
+  "NelsonBobby" : {
+    "AVG" : 211,
+    "GMS" : 63,
+    "HCP" : 8,
+    "Name" : "Nelson, Bobby"
+  },
+  "NicholsDave" : {
+    "AVG" : 162,
+    "GMS" : 93,
+    "HCP" : 52,
+    "Name" : "Nichols, Dave"
+  },
+  "NicholsJohn" : {
+    "AVG" : 166,
+    "GMS" : 96,
+    "HCP" : 48,
+    "Name" : "Nichols, John"
+  },
+  "NicholsSrGeorge" : {
+    "AVG" : 143,
+    "GMS" : 72,
+    "HCP" : 69,
+    "Name" : "Nichols Sr., George"
+  },
+  "NikkelJohn" : {
+    "AVG" : 159,
+    "GMS" : 72,
+    "HCP" : 54,
+    "Name" : "Nikkel, John"
+  },
+  "NovakAnthony" : {
+    "AVG" : 188,
+    "GMS" : 63,
+    "HCP" : 28,
+    "Name" : "Novak, Anthony"
+  },
+  "OwensSrJohn" : {
+    "AVG" : 180,
+    "GMS" : 72,
+    "HCP" : 36,
+    "Name" : "Owens Sr., John"
+  },
+  "PeacockRobert" : {
+    "AVG" : 199,
+    "GMS" : 39,
+    "HCP" : 18,
+    "Name" : "Peacock, Robert"
+  },
+  "PearceJeff" : {
+    "AVG" : 130,
+    "GMS" : 84,
+    "HCP" : 70,
+    "Name" : "Pearce, Jeff"
+  },
+  "PearceJeremiah" : {
+    "AVG" : 199,
+    "GMS" : 96,
+    "HCP" : 18,
+    "Name" : "Pearce, Jeremiah"
+  },
+  "PearceRichard" : {
+    "AVG" : 215,
+    "GMS" : 75,
+    "HCP" : 4,
+    "Name" : "Pearce, Richard"
+  },
+  "PendolinoJoe" : {
+    "AVG" : 189,
+    "GMS" : 84,
+    "HCP" : 27,
+    "Name" : "Pendolino, Joe"
+  },
+  "PersinJames" : {
+    "AVG" : 178,
+    "GMS" : 27,
+    "HCP" : 37,
+    "Name" : "Persin, James"
+  },
+  "PorterJeremiah" : {
+    "AVG" : 200,
+    "GMS" : 72,
+    "HCP" : 18,
+    "Name" : "Porter, Jeremiah"
+  },
+  "PowersAlbert" : {
+    "AVG" : 188,
+    "GMS" : 99,
+    "HCP" : 28,
+    "Name" : "Powers, Albert"
+  },
+  "RadkeGlenn" : {
+    "AVG" : 198,
+    "GMS" : 24,
+    "HCP" : 19,
+    "Name" : "Radke, Glenn"
+  },
+  "RapskyBob" : {
+    "AVG" : 204,
+    "GMS" : 3,
+    "HCP" : 14,
+    "Name" : "Rapsky, Bob"
+  },
+  "RogersBrian" : {
+    "AVG" : 150,
+    "GMS" : 0,
+    "HCP" : 63,
+    "Name" : "Rogers, Brian"
+  },
+  "RybakStephen" : {
+    "AVG" : 201,
+    "GMS" : 57,
+    "HCP" : 17,
+    "Name" : "Rybak, Stephen"
+  },
+  "ScalettaPaul" : {
+    "AVG" : 152,
+    "GMS" : 81,
+    "HCP" : 61,
+    "Name" : "Scaletta, Paul"
+  },
+  "ScanlanJustin" : {
+    "AVG" : 117,
+    "GMS" : 12,
+    "HCP" : 70,
+    "Name" : "Scanlan, Justin"
+  },
+  "SchloegelMike" : {
+    "AVG" : 155,
+    "GMS" : 21,
+    "HCP" : 58,
+    "Name" : "Schloegel, Mike"
+  },
+  "SchobelStephan" : {
+    "AVG" : 203,
+    "GMS" : 54,
+    "HCP" : 15,
+    "Name" : "Schobel, Stephan"
+  },
+  "SchraerRaymond" : {
+    "AVG" : 196,
+    "GMS" : 78,
+    "HCP" : 21,
+    "Name" : "Schraer, Raymond"
+  },
+  "SchramKevin" : {
+    "AVG" : 207,
+    "GMS" : 96,
+    "HCP" : 11,
+    "Name" : "Schram, Kevin"
+  },
+  "SchramRandall" : {
+    "AVG" : 206,
+    "GMS" : 48,
+    "HCP" : 12,
+    "Name" : "Schram, Randall"
+  },
+  "SchroederArnold" : {
+    "AVG" : 180,
+    "GMS" : 90,
+    "HCP" : 36,
+    "Name" : "Schroeder, Arnold"
+  },
+  "SchulteDarvin" : {
+    "AVG" : 169,
+    "GMS" : 12,
+    "HCP" : 45,
+    "Name" : "Schulte, Darvin"
+  },
+  "SeeSrJames" : {
+    "AVG" : 170,
+    "GMS" : 90,
+    "HCP" : 45,
+    "Name" : "See Sr., James"
+  },
+  "SefcikRobert" : {
+    "AVG" : 183,
+    "GMS" : 78,
+    "HCP" : 33,
+    "Name" : "Sefcik, Robert"
+  },
+  "SerratoMitchell" : {
+    "AVG" : 145,
+    "GMS" : 30,
+    "HCP" : 67,
+    "Name" : "Serrato, Mitchell"
+  },
+  "SexauerMark" : {
+    "AVG" : 184,
+    "GMS" : 24,
+    "HCP" : 32,
+    "Name" : "Sexauer, Mark"
+  },
+  "SforzaJoseph" : {
+    "AVG" : 178,
+    "GMS" : 63,
+    "HCP" : 37,
+    "Name" : "Sforza, Joseph"
+  },
+  "SforzaNicholas" : {
+    "AVG" : 227,
+    "GMS" : 6,
+    "HCP" : 0,
+    "Name" : "Sforza, Nicholas"
+  },
+  "ShanahanJrGerry" : {
+    "AVG" : 140,
+    "GMS" : 3,
+    "HCP" : 70,
+    "Name" : "Shanahan Jr., Gerry"
+  },
+  "ShawKeith" : {
+    "AVG" : 199,
+    "GMS" : 39,
+    "HCP" : 18,
+    "Name" : "Shaw, Keith"
+  },
+  "SheltonKerry" : {
+    "AVG" : 173,
+    "GMS" : 45,
+    "HCP" : 42,
+    "Name" : "Shelton, Kerry"
+  },
+  "SlatteryJohn" : {
+    "AVG" : 188,
+    "GMS" : 45,
+    "HCP" : 28,
+    "Name" : "Slattery, John"
+  },
+  "SlatteryJohnny" : {
+    "AVG" : 180,
+    "GMS" : 60,
+    "HCP" : 36,
+    "Name" : "Slattery, Johnny"
+  },
+  "SlatteryNicholas" : {
+    "AVG" : 181,
+    "GMS" : 6,
+    "HCP" : 35,
+    "Name" : "Slattery, Nicholas"
+  },
+  "SlatteryTom" : {
+    "AVG" : 189,
+    "GMS" : 75,
+    "HCP" : 27,
+    "Name" : "Slattery, Tom"
+  },
+  "SlotwinskiMike" : {
+    "AVG" : 200,
+    "GMS" : 90,
+    "HCP" : 18,
+    "Name" : "Slotwinski, Mike"
+  },
+  "SmoluckaBrandon" : {
+    "AVG" : 210,
+    "GMS" : 92,
+    "HCP" : 9,
+    "Name" : "Smolucka, Brandon"
+  },
+  "SmoluckaJames" : {
+    "AVG" : 200,
+    "GMS" : 87,
+    "HCP" : 18,
+    "Name" : "Smolucka, James"
+  },
+  "SmoluckaJason" : {
+    "AVG" : 204,
+    "GMS" : 47,
+    "HCP" : 14,
+    "Name" : "Smolucka, Jason"
+  },
+  "SmoluckaKyle" : {
+    "AVG" : 197,
+    "GMS" : 93,
+    "HCP" : 20,
+    "Name" : "Smolucka, Kyle"
+  },
+  "SpatolaMike" : {
+    "AVG" : 185,
+    "GMS" : 84,
+    "HCP" : 31,
+    "Name" : "Spatola, Mike"
+  },
+  "StepanekDavid" : {
+    "AVG" : 156,
+    "GMS" : 76,
+    "HCP" : 57,
+    "Name" : "Stepanek, David"
+  },
+  "StephensenTodd" : {
+    "AVG" : 225,
+    "GMS" : 21,
+    "HCP" : 0,
+    "Name" : "Stephensen, Todd"
+  },
+  "StewartKyle" : {
+    "AVG" : 164,
+    "GMS" : 75,
+    "HCP" : 50,
+    "Name" : "Stewart, Kyle"
+  },
+  "SwanCarl" : {
+    "AVG" : 180,
+    "GMS" : 90,
+    "HCP" : 36,
+    "Name" : "Swan, Carl"
+  },
+  "TapellaTom" : {
+    "AVG" : 176,
+    "GMS" : 84,
+    "HCP" : 39,
+    "Name" : "Tapella, Tom"
+  },
+  "TeareThomas" : {
+    "AVG" : 189,
+    "GMS" : 33,
+    "HCP" : 27,
+    "Name" : "Teare, Thomas"
+  },
+  "ThompsonJason" : {
+    "AVG" : 197,
+    "GMS" : 53,
+    "HCP" : 20,
+    "Name" : "Thompson, Jason"
+  },
+  "TraczRyan" : {
+    "AVG" : 198,
+    "GMS" : 87,
+    "HCP" : 19,
+    "Name" : "Tracz, Ryan"
+  },
+  "WeilandRobert" : {
+    "AVG" : 212,
+    "GMS" : 71,
+    "HCP" : 7,
+    "Name" : "Weiland, Robert"
+  },
+  "WeinbergRick" : {
+    "AVG" : 187,
+    "GMS" : 84,
+    "HCP" : 29,
+    "Name" : "Weinberg, Rick"
+  },
+  "WicklanderTim" : {
+    "AVG" : 199,
+    "GMS" : 81,
+    "HCP" : 18,
+    "Name" : "Wicklander, Tim"
+  },
+  "WildaIIIJoe" : {
+    "AVG" : 172,
+    "GMS" : 90,
+    "HCP" : 43,
+    "Name" : "Wilda III, Joe"
+  },
+  "WildaJrJoe" : {
+    "AVG" : 142,
+    "GMS" : 60,
+    "HCP" : 70,
+    "Name" : "Wilda Jr, Joe"
+  },
+  "WildaJrJoseph" : {
+    "AVG" : 180,
+    "GMS" : 93,
+    "HCP" : 36,
+    "Name" : "Wilda Jr, Joseph"
+  },
+  "ZahnKenneth" : {
+    "AVG" : 201,
+    "GMS" : 66,
+    "HCP" : 17,
+    "Name" : "Zahn, Kenneth"
+  },
+  "ZarackRay" : {
+    "AVG" : 158,
+    "GMS" : 89,
+    "HCP" : 55,
+    "Name" : "Zarack, Ray"
+  },
+  "ZolpKyle" : {
+    "AVG" : 189,
+    "GMS" : 81,
+    "HCP" : 27,
+    "Name" : "Zolp, Kyle"
+  }
+}
